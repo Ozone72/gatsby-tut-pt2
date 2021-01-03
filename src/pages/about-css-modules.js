@@ -18,7 +18,7 @@ export default function About() {
   return (
     <Container>
       <h1>About CSS Modules</h1>
-      <p>CSS modules are useful and cooool</p>
+      <p>CSS modules are useful and cooool.  If you create a *.module.css along with your .js or .jsx file, all the CSS will be scoped locally to that module</p>
       <User
         username="Tea Leone"
         avatar="https://pbs.twimg.com/profile_images/517389260266422272/SM6yCr3E_400x400.jpeg"
